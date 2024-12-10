@@ -12,3 +12,4 @@ C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0
 C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.pdb
 C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.genruntimeconfig.cache
 C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\ref\AVMLanguageCompiler.dll
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.sourcelink.json

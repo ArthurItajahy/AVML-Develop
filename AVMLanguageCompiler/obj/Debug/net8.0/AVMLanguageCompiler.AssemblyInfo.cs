@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AVMLanguageCompiler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e09c034e081e7399fa23fd39bf197d6a6949f71f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AVMLanguageCompiler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AVMLanguageCompiler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
