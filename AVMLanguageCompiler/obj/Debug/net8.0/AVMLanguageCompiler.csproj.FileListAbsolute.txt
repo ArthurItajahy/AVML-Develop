@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\bin\Debug\net8.0\AVMLanguageCompiler.exe
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\bin\Debug\net8.0\AVMLanguageCompiler.deps.json
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\bin\Debug\net8.0\AVMLanguageCompiler.runtimeconfig.json
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\bin\Debug\net8.0\AVMLanguageCompiler.dll
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\bin\Debug\net8.0\AVMLanguageCompiler.pdb
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.AssemblyInfo.cs
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.dll
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\refint\AVMLanguageCompiler.dll
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.pdb
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\AVMLanguageCompiler.genruntimeconfig.cache
+C:\Users\User\Desktop\Compiler\AVML-Develop\AVMLanguageCompiler\obj\Debug\net8.0\ref\AVMLanguageCompiler.dll
