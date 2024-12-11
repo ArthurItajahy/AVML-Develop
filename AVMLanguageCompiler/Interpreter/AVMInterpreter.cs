@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections;
+using UnityEngine; // For Unity/KSP-specific functionality
+
 
 public class AVMInterpreter
 {

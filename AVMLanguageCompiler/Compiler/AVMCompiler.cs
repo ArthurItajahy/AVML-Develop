@@ -1,5 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Collections;
+using System.Collections.Generic; // For advanced collection types
+using UnityEngine; // For Unity/KSP-specific functionality
+
 
 public class AVMCompiler
 {
