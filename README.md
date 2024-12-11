@@ -33,19 +33,42 @@ With Avium Language, you can:
 
 Here’s a simple example of an Avium script to perform a prograde burn:
 
+## Example Scripts
+
+### Avium Language (.avml)
+Here’s a simple example of an Avium script to perform a prograde burn:
+
+
 ```avml
+
+// Import necessary modules
+import Autopilot;
+import Ship; // Ship information like DeltaV, WetMass, DryMass, Fuel, etc.
+
+// Initialize autopilot and ship objects
 // Set up autopilot
-activate autopilot;
-set direction to prograde;
+Autopilot autopilot = Autopilot();
+// Ship information
+Ship ship = Ship();
+
+// Activate autopilot and set direction
+autopilot.activate();
+autopilot.setDirection("prograde");
 
 // Burn parameters
-set targetDeltaV to 1000; // Delta-v in m/s
-while remainingDeltaV > 0 {
-    throttle to 1.0;
+int targetDeltaV = 1000; // Delta-v in m/s
+while (ship.getDeltaVExecuted() < targetDeltaV) {
+    autopilot.setThrottle(1.0); // Full throttle
 }
-throttle to 0.0;
-deactivate autopilot;
+
+// Stop the burn
+autopilot.setThrottle(0.0);
+autopilot.deactivate();
+
 ```
+
+
+---
 
 ---
 ## License
