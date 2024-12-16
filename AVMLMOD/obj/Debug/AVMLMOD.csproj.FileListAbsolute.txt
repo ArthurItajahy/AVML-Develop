@@ -1,2 +1,0 @@
-C:\Users\User\Desktop\Compiler\AVMLMOD\AVMLMOD\obj\Debug\AVMLMOD.csproj.AssemblyReference.cache
-C:\Users\User\Desktop\Compiler\AVMLMOD\AVMLMOD\obj\Debug\AVMLMOD.csproj.CoreCompileInputs.cache
